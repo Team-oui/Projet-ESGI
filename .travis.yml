@@ -11,8 +11,13 @@ php:
   - 7.2
   - hhvm
 
+# Commands to be run before your environment runs.
+before_script:
+  - composer self-update
+  - composer install --prefer-source --no-interaction --dev
+
 script:
-  - phpunit --coverage-text --coverage-clover=coverage.clover
+  - phpunit
 
 after_script:
   - wget https://scrutinizer-ci.com/ocular.phar
