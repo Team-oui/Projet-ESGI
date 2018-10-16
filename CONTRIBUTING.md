@@ -25,4 +25,3 @@ Name the branch you want to create like the following examples.
 
 3. For a fix :
    - You have to name your new branch like this : "fixes/example".
-   
