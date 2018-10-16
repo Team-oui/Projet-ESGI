@@ -11,17 +11,19 @@ Be sure to communicate either in english or french in order to be understood by 
 2. Be sure that your code is cleaned and that there are no errors
 3. Follow the pull request template when creating your pull request
 
-## Naming Convention
+## Working on our repository
 
 ### Branches
 
-Name the branch you want to create like the following examples.
+Branches must be named according to the following rules :
 
-1. For a bug :
-   - You have to name your new branch like this : "bugs/example".
+1. "bugs/short_name_of_the_bug" for bugs
+2. "features/short_feature_description
+3. "fixes/short_name_for_the_fix" for hotfixes
 
-2. For a feature :
-   - You have to name your new branch like this : "features/example".
+### Commits
 
-3. For a fix :
-   - You have to name your new branch like this : "fixes/example".
+1. Commits name must be short and precise about what it does
+2. There must be a description (short or long) explaining the feature
+3. Your commits must be signed otherwise it won't be accepted
+
