@@ -15,13 +15,14 @@ Be sure to communicate either in english or french in order to be understood by 
 
 ### Branches
 
-Name the branch you want to create like the following examples ->
+Name the branch you want to create like the following examples.
 
 1. For a bug :
-   - You have to name your new branch like this : "bugs/example"
+   - You have to name your new branch like this : "bugs/example".
 
 2. For a feature :
-   - You have to name your new branch like this : "features/example"
+   - You have to name your new branch like this : "features/example".
 
 3. For a fix :
-   - You have to name your new branch like this : "fixes/example"
+   - You have to name your new branch like this : "fixes/example".
+   
