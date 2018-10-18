@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+je suis un ficheir texte
+=======
+<?php
+
+echo "slt"
+>>>>>>> 9164b664cb4c0247835b8371b5d56a9007ccac98
